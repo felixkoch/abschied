@@ -21,9 +21,9 @@ const config = {
 		prerender: {
 			default: true
 		},
-		paths: {
-			base: dev ? '' :  '/abschied'
-		},
+		//paths: {
+		//	base: dev ? '' :  '/abschied'
+		//},
 		// Override http methods in the Todo forms
 		methodOverride: {
 			allowed: ['PATCH', 'DELETE']
