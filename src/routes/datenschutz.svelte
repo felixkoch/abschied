@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-	<title>Impressum - tagungshotels.info</title>
+	<title>Datenschutz - tagungshotels.info</title>
 </svelte:head>
 
 <div class="container  mx-auto bg-white max-w-screen-lg p-8 rounded-lg relative">
@@ -669,12 +669,7 @@
 		margin-bottom: 1.5rem;
 	}
 
-	h2 {
-		font-size: 1.5rem;
-		margin-bottom: 1.5rem;
-	}
-
-	h3, h4 {
+	h4 {
 		font-size: 1.2rem;
 		margin-bottom: 1.5rem;
 	}
