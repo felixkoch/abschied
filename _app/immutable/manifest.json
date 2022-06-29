@@ -1,0 +1,80 @@
+{
+  ".svelte-kit/runtime/client/start.js": {
+    "file": "start-ccc8293e.js",
+    "src": ".svelte-kit/runtime/client/start.js",
+    "isEntry": true,
+    "imports": [
+      "_index-b275575c.js"
+    ],
+    "dynamicImports": [
+      "src/routes/__layout.svelte",
+      ".svelte-kit/runtime/components/error.svelte",
+      "src/routes/datenschutz.svelte",
+      "src/routes/impressum.svelte",
+      "src/routes/index.svelte"
+    ]
+  },
+  "src/routes/__layout.svelte": {
+    "file": "pages/__layout.svelte-d436b216.js",
+    "src": "src/routes/__layout.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-b275575c.js"
+    ],
+    "css": [
+      "assets/pages/__layout.svelte-4d892cb3.css"
+    ]
+  },
+  ".svelte-kit/runtime/components/error.svelte": {
+    "file": "error.svelte-fdb9d1b3.js",
+    "src": ".svelte-kit/runtime/components/error.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-b275575c.js"
+    ]
+  },
+  "src/routes/datenschutz.svelte": {
+    "file": "pages/datenschutz.svelte-dcefc3ae.js",
+    "src": "src/routes/datenschutz.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-b275575c.js"
+    ],
+    "css": [
+      "assets/pages/datenschutz.svelte-75d56d25.css"
+    ]
+  },
+  "src/routes/impressum.svelte": {
+    "file": "pages/impressum.svelte-969b14b0.js",
+    "src": "src/routes/impressum.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-b275575c.js"
+    ],
+    "css": [
+      "assets/pages/impressum.svelte-622d0b6f.css"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "pages/index.svelte-8114cad7.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-b275575c.js"
+    ],
+    "css": [
+      "assets/pages/index.svelte-89782657.css"
+    ],
+    "assets": [
+      "assets/web-a7376a02.jpg"
+    ]
+  },
+  "_index-b275575c.js": {
+    "file": "chunks/index-b275575c.js"
+  }
+}
