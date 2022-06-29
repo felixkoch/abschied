@@ -1,7 +1,3 @@
-<script>
-	import bild from './web.jpg';
-</script>
-
 <svelte:head>
 	<title>Datenschutz - tagungshotels.info</title>
 </svelte:head>
