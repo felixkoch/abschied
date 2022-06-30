@@ -26,14 +26,14 @@
 		<p>
 			Als Full Stack Developer mit über 15 Jahren Erfahrung und Datenanalyst unterstütze ich meine
 			Kunden beim Entwurf und bei der Entwicklung von internen und externen Webanwendungen, Tools
-			und Dashboards. Hierbei setze ich am liebsten JavaScript/React und Power BI ein. Meine Stärke
+			und Dashboards. Hierbei setze ich am liebsten TypeScript/React und Power BI ein. Meine Stärke
 			liegt in der Kommunikation auf dem Weg von Ihrem fachlichem Bedarf zur technischen Lösung.
 		</p>
 		<p>
 			Gerne spreche ich mit Ihnen über Ihr Projekt: <a href="tel:+4942669999999" class="underline"
 				>+49 4266 999 999 9</a
 			>
-			oder Sie wählen einfach einen Termin in
+			oder wählen Sie einfach einen Termin in
 			<a href="https://meetings.hubspot.com/felix137" class="underline">meinem Kalender</a>.
 		</p>
 
